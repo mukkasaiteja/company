@@ -1,0 +1,28 @@
+.tab1{
+    width: 200px;
+    background-color: blue;
+    color: wheat;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin: 20px;
+    padding: 20px;
+  text-decoration: none;
+}
+.tab2{
+   
+    width: 200px;
+    background-color: blue;
+    color: wheat;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+}
+.tabs{
+  
+    padding: 20px ;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}

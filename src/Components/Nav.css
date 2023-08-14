@@ -1,0 +1,32 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(34,193,195);
+    background: linear-gradient(30deg, rgba(34,193,195,1) 0%, rgba(10,11,22,1) 100%);
+    color: wheat;
+    align-items: center;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    margin-right: 40px;
+    list-style: none;
+    cursor: pointer;
+ 
+    padding: 10px;
+  
+}
+li:hover{
+    color: red;
+    transform: scale(1.2);
+}
+.logo{
+   color: blanchedalmond;
+}
+.logo:hover{
+    transform: scale(1.2);
+    color: yellowgreen;
+}
+
